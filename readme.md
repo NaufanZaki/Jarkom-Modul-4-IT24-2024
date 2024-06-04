@@ -63,5 +63,5 @@ IP Prefix yang digunakan oleh kelompok kami adalah
 ![K](image-14.png)
 ![K1](image-23.png)
 ## Tree
-
+![Tree](TreeCIRD.drawio.png)
 ## Testing
