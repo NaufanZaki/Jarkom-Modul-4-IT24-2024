@@ -34,39 +34,33 @@ IP Prefix yang digunakan oleh kelompok kami adalah
 
 ### Kondisi node setelah penggabungan pertama (B)
 ![B](image-3.png)
-![B1](image-16.png)
-
+![B1](image-15.png)
 ### Kondisi node setelah penggabungan kedua (C)
 ![C](image-4.png)
-![C1](image-17.png)
-
+![C1](image-16.png)
 ### Kondisi node setelah penggabungan ketiga (D)
 ![D](image-5.png)
-![D1](image-18.png)
-
+![D1](image-17.png)
 ### Kondisi node setelah penggabungan keempat (E)
 ![E](image-6.png)
-![E1](image-19.png)
-
+![E1](image-18.png)
 ### Kondisi node setelah penggabungan kelima(F)
 ![F](image-8.png)
-![F1 ](image-20.png)
-
+![F1](image-19.png)
 ### Kondisi node setelah penggabungan keenam (G)
 ![G](image-9.png)
-![G1](image-21.png)
+![G1](image-20.png)
 ### Kondisi node setelah penggabungann ketujuh (H)
 ![H](image-10.png)
-![H1](image-22.png)
+![H1](image-21.png)
 ### Kondisi node setelah penggabungan kedelapan (I)
 ![I](image-11.png)
-![I1](image-23.png)
+![I1](image-22.png)
 ### Kondisi node setelah penggabungan kesembilan (J)
 ![J](image-12.png)
-![J1](image-24.png)
+![J1](image-23.png)
 ### Kondisi node setelah penggabungan kesepuluh (K)
 ![K](image-14.png)
-![K1](image-25.png)
 
 ## Tree
 
