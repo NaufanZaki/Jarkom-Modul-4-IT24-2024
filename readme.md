@@ -58,10 +58,10 @@ IP Prefix yang digunakan oleh kelompok kami adalah
 ![I1](image-22.png)
 ### Kondisi node setelah penggabungan kesembilan (J)
 ![J](image-12.png)
-![J1](image-23.png)
+![J1](image-24.png)
 ### Kondisi node setelah penggabungan kesepuluh (K)
 ![K](image-14.png)
-
+![K1](image-23.png)
 ## Tree
 
 ## Testing
