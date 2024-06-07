@@ -16,6 +16,11 @@
 
 ![RUTE](https://github.com/NaufanZaki/Jarkom-Modul-4-IT24-2024/assets/124648489/1acad865-e77f-4777-9275-32ae8f5f9eac)
 
+# Tree
+
+![TREE VLSM](https://github.com/NaufanZaki/Jarkom-Modul-4-IT24-2024/assets/124648489/2aaff0c6-7ac5-40a0-93f6-7d76fcc4de92)
+
+
 # Konfigurasi
 
 ```
@@ -586,6 +591,8 @@ route add -net 192.245.8.0 netmask 255.255.248.0 gw 192.245.20.190
 
 https://github.com/NaufanZaki/Jarkom-Modul-4-IT24-2024/assets/124648489/b91a235b-378e-4dae-a7ea-22ad7867aa89
 
+# Kendala
+ VLSM tidak ada kendala
 
 
 
