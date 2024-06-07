@@ -584,6 +584,9 @@ route add -net 192.245.8.0 netmask 255.255.248.0 gw 192.245.20.190
 
 # Testing
 
+https://github.com/NaufanZaki/Jarkom-Modul-4-IT24-2024/assets/124648489/b91a235b-378e-4dae-a7ea-22ad7867aa89
+
+
 
 
 
